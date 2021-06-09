@@ -56,6 +56,12 @@
 		55F131A12670C7B3008BFC97 /* team10 */ = {
 			isa = PBXGroup;
 			children = (
+				55F131BD2670C82A008BFC97 /* Cockpit */,
+				55F131BC2670C81E008BFC97 /* Engine */,
+				55F131BB2670C813008BFC97 /* Fuel */,
+				55F131BA2670C807008BFC97 /* Electrical */,
+				55F131B92670C7FF008BFC97 /* Control */,
+				55F131B82670C7EB008BFC97 /* Access */,
 				55F131A22670C7B3008BFC97 /* AppDelegate.swift */,
 				55F131A42670C7B3008BFC97 /* SceneDelegate.swift */,
 				55F131A62670C7B3008BFC97 /* ViewController.swift */,
@@ -65,6 +71,48 @@
 				55F131B02670C7B5008BFC97 /* Info.plist */,
 			);
 			path = team10;
+			sourceTree = "<group>";
+		};
+		55F131B82670C7EB008BFC97 /* Access */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Access;
+			sourceTree = "<group>";
+		};
+		55F131B92670C7FF008BFC97 /* Control */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Control;
+			sourceTree = "<group>";
+		};
+		55F131BA2670C807008BFC97 /* Electrical */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Electrical;
+			sourceTree = "<group>";
+		};
+		55F131BB2670C813008BFC97 /* Fuel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Fuel;
+			sourceTree = "<group>";
+		};
+		55F131BC2670C81E008BFC97 /* Engine */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Engine;
+			sourceTree = "<group>";
+		};
+		55F131BD2670C82A008BFC97 /* Cockpit */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Cockpit;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
